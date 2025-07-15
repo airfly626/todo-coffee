@@ -1,0 +1,39 @@
+.gradient-start {
+  color: #9580ff;
+}
+/* .button-card {
+  background-color: #f8fafc;
+  color: var(--color-primary);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.button-card {
+  border: 1px solid #bed1e7;
+}
+
+.button-card {
+  box-shadow: none;
+}
+
+.button-card:hover {
+  transform: translate(0);
+  box-shadow: none;
+  border-color: #64748b;
+} */
+
+
+.coffee-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+/* .coffee-grid button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+} */
+/* .coffee-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+} */
